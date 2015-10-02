@@ -1,0 +1,1 @@
+Hỗ trợ và báo lỗi tại: [Diễn đàn Ubuntu-VN](http://forum.ubuntu-vn.org/viewforum.php?f=85) hoặc kênh trợ giúp trực tuyến #ubuntu-vn (irc.freenode.net)
